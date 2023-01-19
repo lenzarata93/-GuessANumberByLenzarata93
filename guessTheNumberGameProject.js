@@ -1,4 +1,4 @@
-IDONTKNOWWHATTODO.
+
     const readline = require('redline').createInterface({
         input: process.stdin,
         output: process.stdout
@@ -9,5 +9,5 @@ IDONTKNOWWHATTODO.
         {
 
         });
-    }asyncReadLine(2);
+    }asyncReadLine();
 
